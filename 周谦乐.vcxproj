@@ -150,6 +150,7 @@
     <ClCompile Include="周谦乐.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="data.h" />
     <ClInclude Include="includehead.h" />
     <ClInclude Include="process-console-main.h" />
     <ClInclude Include="函数01.h" />

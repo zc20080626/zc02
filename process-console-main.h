@@ -10,7 +10,7 @@
 #include<fstream>
 #include"º¯Êý01.h"
 
-//char zc[18446744073709551615];
+char zc[18446744073709551615];
 
 void zql() {
 	string zqls;
@@ -27,12 +27,14 @@ void zql() {
 		zc[i] = zqls[i];
 	}*/
 
-	for (unsigned long long int i = 0; i <= *p; i++)
+	/*for (unsigned long long int i = 0; i <= *p; i++)
 	{
 		switch (zqls[i]) {
 		case 'a':
-
+			
 		}
-	}
+	}*/
+
+
 
 }
