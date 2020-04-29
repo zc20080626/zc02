@@ -153,6 +153,7 @@
     <ClInclude Include="data.h" />
     <ClInclude Include="includehead.h" />
     <ClInclude Include="process-console-main.h" />
+    <ClInclude Include="textcolor.h" />
     <ClInclude Include="函数01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

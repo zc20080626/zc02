@@ -50,7 +50,7 @@ void zql() {
 			{
 			case'e':
 				if (zqls[5] = ' ') {
-					//º¯ÊýÔ¤Áô
+					//º¯ÊýÔ¤Áô-use
 					break;
 				}
 			

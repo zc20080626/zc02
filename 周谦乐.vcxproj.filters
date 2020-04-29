@@ -32,5 +32,8 @@
     <ClInclude Include="data.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="textcolor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
